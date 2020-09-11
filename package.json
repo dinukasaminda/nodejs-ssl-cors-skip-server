@@ -1,0 +1,28 @@
+{
+  "name": "ikman-web-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "express-http-proxy": "^1.6.2",
+    "http-proxy-middleware": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinukasaminda/ikman-web-scrapper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinukasaminda/ikman-web-scrapper/issues"
+  },
+  "homepage": "https://github.com/dinukasaminda/ikman-web-scrapper#readme"
+}
